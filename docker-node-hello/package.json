@@ -1,0 +1,18 @@
+{
+  "name": "docker-ubuntu-hello-world",
+  "private": true,
+  "version": "0.0.1",
+  "description": "Node.js Hello World app on Ubuntu using docker",
+  "author": "Daniel Gasienica <daniel@gasienica.ch>",
+  "contributors": [{
+    "name": "Sean P. Kane",
+    "email": "spkane00+github@gmail.com"
+  }, 
+  {
+    "name": "Guillaume Jacobs",
+    "email": "guillaume.jacobs1995@outlook.com"
+  }],
+  "dependencies": {
+    "express": "3.2.4"
+  }
+}

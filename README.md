@@ -1,0 +1,1 @@
+This repository is based on the code example from the book Docker: Up and Running 2nd Edition.
