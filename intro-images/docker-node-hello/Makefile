@@ -29,7 +29,7 @@ check-image:
 	docker image ls gujacobs/docker-node-hello
 
 push:
-
+	docker push gujacobs/docker-node-hello:latest
 
 
 .PHONY: install build run test clean
